@@ -1,7 +1,7 @@
 
 - Oi  👋, Eu sou o Philippe John Machado ou  @philippejohn
 
-- 📍 Trabalho como Full Stack e Tech Lead
+- 📍 Trabalho como Full Stack Developer e Tech Lead
 
 - 💻 Estou sempre em busca de novos conhecimentos e ter bases solidas das tecnologias
 
